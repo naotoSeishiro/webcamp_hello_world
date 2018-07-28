@@ -1,4 +1,3 @@
-# webcamp_hello_world
 <!DOCTYPE>
 <html>
   <head>
